@@ -1,0 +1,385 @@
+
+hr {
+    size: 10px;
+}
+
+.menu {
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.flow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#icon_back {
+    background-color: #c5a5ec;
+}
+
+.mbox {
+    flex: 1;
+    color: #a474e5;
+    font-size: 25px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.mbox:hover {
+    color: white;
+    background-color: #c5a5ec;
+}
+
+.mbox1 {
+    flex: 3;
+    text-align: left;
+    margin-right: 5%;
+}
+
+.mbox2 {
+    flex: 1;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.mbox3 {
+    background-color: #c5a5ec;
+    flex: 1;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.mbox3:hover {
+    color: white;
+    background-color: #9e63e3;
+}
+
+.mpic {
+    margin-top: 2%;
+    flex: 2;
+    justify-content: center;
+    margin-left: 5%;
+}
+
+.icon {
+    height: 150px;
+    width: 150px;
+}
+
+.popular_part {
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    height: 90%;
+    justify-content: center;
+    align-items: center;
+}
+
+#sail {
+    margin-top: 5%;
+    height: 70%;
+    margin-left: 0;
+    box-sizing: border-box;
+}
+
+#pop {
+    margin-left: 10%;
+    margin-right: 10%;
+    box-sizing: border-box;
+}
+
+.formula {
+    box-sizing: border-box;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    height: 600px;
+}
+
+input {
+    font-size: 23px;
+}
+
+.box1 {
+    box-sizing: border-box;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    align-content: center;
+    height: 60%;
+    margin-left: 10%;
+}
+
+.box2 {
+    box-sizing: border-box;
+    margin-right: 10%;
+    flex: 2;
+}
+
+.box3 {
+    box-sizing: border-box;
+    height: 100%;
+    margin-right: 10%;
+    margin-top: 0;
+    flex: 1;
+}
+
+.box4 {
+    margin-right: 5%;
+    box-sizing: border-box;
+    height: 90%;
+    margin-top: 0;
+    flex: 1;
+}
+
+.box5 {
+    overflow: hidden;
+    box-sizing: border-box;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+    height: 80%;
+    margin-left: 5%;
+}
+
+.add {
+    font-size: 50px;
+    margin-top: 100px;
+    height: 200px;
+    width: 80%;
+    display: flex;
+    border: 2px solid blueviolet;
+}
+
+.text1 {
+    box-sizing: border-box;
+    font-size: 45px;
+    flex: 1;
+}
+
+.text2 {
+    box-sizing: border-box;
+    flex: 1;
+    font-size: 30px;
+}
+
+.text3 {
+    box-sizing: border-box;
+    flex: 1;
+    font-size: 50px;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.text4 {
+    box-sizing: border-box;
+    flex: 1;
+    font-size: 30px;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.button1 {
+    background-color: #c5a5ec;
+    box-sizing: border-box;
+    flex: 1;
+    font-size: 30px;
+    width: 80%;
+    border-radius: 90px;
+}
+
+.button1:hover {
+    background-color: #a474e5;
+}
+
+.button_color {
+    color: white;
+    font-size: 30px;
+}
+
+#pik1 {
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 5%;
+}
+
+#pik2 {
+    box-sizing: border-box;
+    margin-top: 0;
+    object-fit: fill;
+    width: 100%;
+    height: 100%;
+}
+
+#pik3 {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+}
+
+#core_text {
+    margin-top: 10%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 50px;
+}
+
+.goback {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 50px;
+}
+
+#back {
+    height: 90%;
+    background-color: #c5a5ec;
+}
+
+#m {
+    height: 80%;
+}
+
+.main_color {
+    color: #a474e5;
+}
+
+.msize {
+    font-family: Arial;
+    margin-left: 10%;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#marg {
+    margin-top: 5%;
+}
+
+#border {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    height: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    border: 2px solid blueviolet;
+}
+
+#new {
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    height: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+
+.products{
+    display: flex;
+}
+
+.product {
+    border: 2px solid blueviolet;
+}
+
+.back {
+    text-align: center;
+    margin-left: 40%;
+}
+
+
+
+
+@media only screen and (max-width: 1150px) and (min-width: 0px) {
+    body {
+        height: 120vh;
+    }
+
+    .popular_part {
+        height: 105%;
+        flex-direction: column;
+    }
+
+    .menu {
+        flex-direction: column;
+    }
+
+    .mpic {
+        margin-left: 25%;
+    }
+
+    .mbox1 {
+        margin-left: 20%;
+        align-content: center;
+        align-items: center;
+    }
+
+    #border {
+        height: 105%;
+    }
+
+
+
+    .box1 {
+        align-items: center;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .box2 {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .box4 {
+        margin-right: 0;
+    }
+
+    .box5 {
+        margin-left: 0;
+    }
+
+    #sail {
+        height: 105%;
+    }
+
+    #pop {
+        height: 160%;
+    }
+
+    .box3 {
+        width: 100%;
+    }
+
+    #icon_back {
+        align-content: center;
+    }
+}

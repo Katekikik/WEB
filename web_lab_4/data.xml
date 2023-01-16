@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+
+    <item ID="1">
+        <Name>нежность</Name>
+        <Price>666</Price>
+        <HoursToApply>90</HoursToApply>
+        <img>"imgs/букетик.webp"</img>
+    </item>
+
+    <item ID="2">
+        <Name>Эконом</Name>
+        <Price>100</Price>
+        <HoursToApply>60</HoursToApply>
+        <img>"imgs/букетик.webp"</img>
+    </item>
+
+    <item ID="3">
+        <Name>Люкс</Name>
+        <Price>10000</Price>
+        <HoursToApply>15</HoursToApply>
+        <img>imgs/букетик.webp</img>
+    </item>
+</root>
